@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "price": 1920,
+      "shirt": "nike"
+    },
+    {
+        "id": 2,
+        "price": 1520,
+        "shirt": "addidas"
+    },
+    {
+        "id": 3,
+        "price": 1260,
+        "shirt": "new balance"
+    },
+    {
+        "id": 4,
+        "price": 1670,
+        "shirt": "good"
+    },
+    {
+        "id": 5,
+        "price": 1930,
+        "shirt": "nike"
+      },
+      {
+          "id": 6,
+          "price": 1320,
+          "shirt": "addidas"
+      },
+      {
+          "id": 7,
+          "price": 1160,
+          "shirt": "new balance"
+      },
+      {
+          "id": 8,
+          "price": 1620,
+          "shirt": "good"
+      }
+]

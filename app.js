@@ -33,6 +33,9 @@ searchContainer.addEventListener('submit', async (e) => {
     const data = new Search(query);
     data.query.toLowerCase();
     const result = await data.getRes(query);
+    if(result.length <= 0){
+        alert('there is no item in the list')
+    }
     result.forEach(item => {
         let div = document.createElement("div");
         div.innerHTML = `
